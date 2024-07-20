@@ -56,7 +56,6 @@
 	   "UpThreshold": 62,
 	   "DownThreshold": 56,
 	   "FanSpeed": 44.0
-	  },
 	  {
 	   "UpThreshold": 64,
 	   "DownThreshold": 60,
@@ -107,7 +106,7 @@
 	},
 	{
 	 "ReadRegister": 21,
-	 "WriteRegister": 179,
+	 "WriteRegister": 58,
 	 "MinSpeedValue": 0,
 	 "MaxSpeedValue": 100,
 	 "IndependentReadMinMaxValues": true,
