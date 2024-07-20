@@ -107,7 +107,7 @@
 	},
 	{
 	 "ReadRegister": 21,
-	 "WriteRegister": 58,
+	 "WriteRegister": 179,
 	 "MinSpeedValue": 0,
 	 "MaxSpeedValue": 100,
 	 "IndependentReadMinMaxValues": true,
